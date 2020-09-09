@@ -1,4 +1,6 @@
-<a href="https://bsrikanth.com/?utm_source=github_profile&utm_content=banner" title="Srikanth Bandaru"><img align="center" src="https://raw.githubusercontent.com/srikanthbandaru/srikanthbandaru/master/assets/github_banner.png" /></a>
+<p align="center">
+  <a href="https://bsrikanth.com/?utm_source=github_profile&utm_content=banner" title="Srikanth Bandaru"><img src="https://raw.githubusercontent.com/srikanthbandaru/srikanthbandaru/master/assets/github_banner.png" height="250" /></a>
+</p>
 
 Hello! 👋🏽 
 

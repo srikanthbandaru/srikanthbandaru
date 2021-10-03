@@ -2,7 +2,7 @@
 <h3 align="center">
   With more than 5 years of experience developing enterprise scale web
   applications, I care deeply about the people I work with. I bring empathy and
-  strong communication to teams and strive to learn and teach as much as I can.
+  strong communication to teams and strive to learn and teach as much as I can
 </h3>
 
 <p align="left">
@@ -28,15 +28,13 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Algorithms & advanced debugging with dev tools.**
+- 🌱 I’m currently learning **Algorithms & advanced debugging with dev tools** 
 - 👨‍💻 All of my projects are available at
 [https://bsrikanth.com](https://bsrikanth.com) 
 - 💬 Ask me about **JavaScript,
 TypeScript, React, node.js, Python & PostgreSQL** 
-- 📫 How to reach me
-**srikanthb.dev@gmail.com** 
-- 📄 Know about my experiences
-[https://www.bsrikanth.com/cv/](https://www.bsrikanth.com/cv/)
+- 📫 How to reach me **srikanthb.dev@gmail.com** 
+- 📄 Know about my experiences [https://www.bsrikanth.com/cv/](https://www.bsrikanth.com/cv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -76,10 +74,10 @@ TypeScript, React, node.js, Python & PostgreSQL**
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank">
+  <a href="https://www.gatsbyjs.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
+      src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
+      alt="gatsby"
       width="40"
       height="40"
     />
@@ -103,14 +101,6 @@ TypeScript, React, node.js, Python & PostgreSQL**
       height="40"
     />
   </a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://kafka.apache.org/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
@@ -123,6 +113,14 @@ TypeScript, React, node.js, Python & PostgreSQL**
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
+      alt="nextjs"
       width="40"
       height="40"
     />
@@ -155,14 +153,6 @@ TypeScript, React, node.js, Python & PostgreSQL**
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
       width="40"
       height="40"
     />

@@ -23,17 +23,17 @@
 <p align="left">
   <a href="https://twitter.com/srikanthbandaru" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/srikanthbandaru?logo=twitter&style=flat-square"
+      src="https://img.shields.io/twitter/follow/srikanthbandaru?logo=twitter&style=for-the-badge"
       alt="srikanthbandaru"
   /></a>
 </p>
 
 - 🌱 I’m currently learning **Algorithms & advanced debugging with dev tools.**
 - 👨‍💻 All of my projects are available at
-[https://bsrikanth.com](https://bsrikanth.com) - 💬 Ask me about **JavaScript,
-TypeScript, React, node.js, Python & PostgreSQL** - 📫 How to reach me
-**srikanthb.dev@gmail.com** - 📄 Know about my experiences
-[https://www.bsrikanth.com/cv/](https://www.bsrikanth.com/cv/)
+[https://bsrikanth.com](https://bsrikanth.com) 
+- 💬 Ask me about **JavaScript, TypeScript, React, node.js, Python & PostgreSQL** 
+- 📫 How to reach me **srikanthb.dev@gmail.com** 
+- 📄 Know about my experiences [https://www.bsrikanth.com/cv/](https://www.bsrikanth.com/cv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

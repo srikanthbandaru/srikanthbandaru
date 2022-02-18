@@ -134,12 +134,3 @@
     src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white"
   />
 </p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=srikanthbandaru&show_icons=true&locale=en"
-    alt="srikanthbandaru"
-  />
-</p>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=srikanthbandaru" alt="visitors"></p>

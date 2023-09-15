@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srikanth Bandaru</h1>
 <h3 align="center">
-  With more than 5 years of experience developing enterprise scale web
+  With more than 7 years of experience developing enterprise scale web
   applications, I care deeply about the people I work with. I bring empathy and
   strong communication to teams and strive to learn and teach as much as I can.
 </h3>

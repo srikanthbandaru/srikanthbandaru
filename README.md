@@ -1,33 +1,13 @@
-<h1 align="center">Hi 👋, I'm Srikanth Bandaru</h1>
-<h3 align="center">I build the platforms other engineers build on.</h3>
-<p>
-  I’ve spent 15 years on the web, nearly seven of them at Bayer, where I’ve led four teams,
-  28 engineers in all, behind its Crop Science customer sites. About 6M visits a year land on
-  things I helped shape. I care deeply about the people I work with, and I try to learn and
-  teach as much as I can.
-</p>
+# I build the platforms other engineers build on.
 
-<h2>A Few Quick Facts</h2>
+I’m a staff software engineer at Bayer, building shared web platforms, design systems and developer tooling for an Agentic SDLC. My work includes architecture behind Crop Science websites in more than 20 countries and the Customer Experience Platform’s official design system, now used by more than 15 teams. I also build MCP servers and tools that give coding agents shared engineering context and run deterministic checks on their work.
 
-- 🌱 Currently leading the experience of Bayer’s Sales apps and teaching our coding agents to build the way our teams build.
-- 💬 Ask me about making a new market a configuration (Canada took 8 engineers a year, New Zealand took 3 weeks!), agents that stand up a website from a chat, headless AEM on Next.js, design systems nobody has to staff, or the agentic SDLC I’m working on.
-- 👨‍💻 My writing and projects live at [bsrikanth.com](https://bsrikanth.com)
-- 📄 [My résumé](https://bsrikanth.com/assets/resume.pdf)
-- 📫 Reach me at **hello@bsrikanth.com**
+Outside work, I make small interactive projects with interesting problems underneath:
 
-<h2>Experience</h2>
+- **[Beat the Planner](https://bsrikanth.com/beat-the-planner)** — Race PostgreSQL’s query planner against real queries, with Postgres running in your browser through WebAssembly.
+- **[Hunch](https://bsrikanth.com/hunch)** — A font that guesses the rest of your word. The prediction rules run through ordinary OpenType features, with no JavaScript.
+- **[Tessellate Me](https://bsrikanth.com/tessellate-me)** — Turn a drawing into interlocking tiles, using a geometry solver compiled to WebAssembly.
 
-- Staff Software Engineer, Squad Lead @Bayer
-- Technical Lead @Cognizant
-- Programmer Analyst @InfoDrive
+I care deeply about the people I work with, and I try to learn and teach as much as I can.
 
-<h2>What I work with</h2>
-
-- **Backend and infrastructure:** Node.js, GraphQL, PostgreSQL, Nx and Turborepo monorepos, GitHub Actions, Docker, AWS CloudFront, Lambda@Edge and CloudFormation
-- **Frontend and product:** React, Next.js, TypeScript, React Native, design systems, accessibility and Playwright
-- **AI and agents:** LangGraph agents, MCP servers, coding-agent conventions and skills, structured output, Python
-- **Leading:** Squad lead, vendor technical ownership, RFCs and decision records, hiring
-
-<h2>Socials</h2>
-
-[LinkedIn](https://www.linkedin.com/in/srikanthbandaru/) · [Twitter](https://twitter.com/srikanthbandaru)
+[Writing and projects](https://bsrikanth.com) · [Résumé](https://bsrikanth.com/resume) · [LinkedIn](https://www.linkedin.com/in/srikanthbandaru/) · [Email](mailto:hello@bsrikanth.com)

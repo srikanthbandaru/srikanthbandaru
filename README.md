@@ -4,9 +4,9 @@ I’m a staff software engineer at Bayer, building shared web platforms, design 
 
 Outside work, I make small interactive projects with interesting problems underneath:
 
-- **[Beat the Planner](https://bsrikanth.com/beat-the-planner)** — Race PostgreSQL’s query planner against real queries, with Postgres running in your browser through WebAssembly.
-- **[Hunch](https://bsrikanth.com/hunch)** — A font that guesses the rest of your word. The prediction rules run through ordinary OpenType features, with no JavaScript.
-- **[Tessellate Me](https://bsrikanth.com/tessellate-me)** — Turn a drawing into interlocking tiles, using a geometry solver compiled to WebAssembly.
+- **[Beat the Planner](https://bsrikanth.com/projects/beat-the-planner)** — Race PostgreSQL’s query planner against real queries, with Postgres running in your browser through WebAssembly.
+- **[Hunch](https://bsrikanth.com/projects/hunch)** — A font that guesses the rest of your word. The prediction rules run through ordinary OpenType features, with no JavaScript.
+- **[Tessellate Me](https://bsrikanth.com/projects/tessellate-me)** — Turn a drawing into interlocking tiles, using a geometry solver compiled to WebAssembly.
 
 I care deeply about the people I work with, and I try to learn and teach as much as I can.
 
